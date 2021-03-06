@@ -1097,7 +1097,7 @@ CNC 新华中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 
 
 新闻,#genre#
-
+有线新闻,http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
 有线新闻,p2p://147.135.39.171:9906/5f33ec18000de7fc8a19af945eb25962.ts
 有线新闻,http://qj.yyrjdp.cn/jiuban/iptv556.php?id=6
 有线新闻,http://qj.yyrjdp.cn/jiuban/iptv556.php?id=7
@@ -1110,7 +1110,7 @@ CNC 新华中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 有线新闻,http://f8r.cn/qYimu9
 有线新闻,http://teslagram.com/live/channel_109.m3u8
 有线新闻,http://gslb.cdn.hk.chinamobile.com/live/fe19cd44717842fea90503d10aa7bab9/543b4d76d8614cf49194abe9db521736.m3u8
-
+无线新闻,http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
 无线新闻,https://www.nettvplus.live/hls/tvb.php?id=1
 无线新闻,http://ohyeah.gear.host/hktvb.php?id=1
 无线新闻,http://qj.yyrjdp.cn/jiuban/iptv556.php?id=13
@@ -1162,7 +1162,7 @@ BBC World News,https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist
 港澳,#genre#
 
 
-
+有线新闻,http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
 有线新闻,p2p://147.135.39.171:9906/5f33ec18000de7fc8a19af945eb25962.ts
 有线新闻,http://qj.yyrjdp.cn/jiuban/iptv556.php?id=6
 有线新闻,p2p://147.135.39.171:9906/5f33ec18000de7fc8a19af945eb25962.ts
@@ -1178,6 +1178,7 @@ BBC World News,https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist
 翡翠台,P2p://198.255.74.56:41196/602fed74000f2b2379f84584f82e0abd
 翡翠(马来),mitv://ns2.hellotvvod.com:9906/5fc89f29000b44b051445b872ad9583d&kss=333
 翡翠(马来),mitv://ns2.hellotvvod.com:9906/5fc89f29000b44b051445b872ad9583d&kss=333
+无线新闻,http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
 无线新闻,https://www.nettvplus.live/hls/tvb.php?id=1
 无线新闻,http://ohyeah.gear.host/hktvb.php?id=1
 无线新闻,http://qj.yyrjdp.cn/jiuban/iptv556.php?id=13
