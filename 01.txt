@@ -1099,8 +1099,8 @@ CNC 新华中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 新闻,#genre#
 
 有线新闻,p2p://147.135.39.171:9906/5f33ec18000de7fc8a19af945eb25962.ts
-有线新闻,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=6
-有线新闻,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=7
+有线新闻,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=6
+有线新闻,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=7
 有线新闻,http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
 有线新闻,http://125.89.166.215:80/live-hwcdn.utvlive.top/live/fe19cd44717842fea90503d10aa7bab9/543b4d76d8614cf49194abe9db521736-1.m3u8
 有线新闻,P2p://198.255.74.56:41196/602fedef0000059b79fa221c723e419c
@@ -1113,7 +1113,7 @@ CNC 新华中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 
 无线新闻,https://www.nettvplus.live/hls/tvb.php?id=1
 无线新闻,http://ohyeah.gear.host/hktvb.php?id=1
-无线新闻,http://qj.yyrjdp.cn/jiuban/iptv556.php?id=13
+无线新闻,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=13
 无线新闻,P2p://198.255.74.56:41196/602fed74000e4d8079f8454bb3576dfc
 无线新闻,P2p://198.255.74.56:41196/602fedf400096ec079fa380cc1a8fdbe
 
@@ -1162,7 +1162,7 @@ BBC World News,https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist
 港澳,#genre#
 
 
-有线新闻,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=6
+有线新闻,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=6
 有线新闻,http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
 有线新闻,P2p://198.255.74.56:41196/602fedef0000059b79fa221c723e419c
 有线新闻,P2p://198.255.74.56:41196/602fedfb0003598079fa51d6150c3471
@@ -1170,7 +1170,7 @@ BBC World News,https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist
 有线新闻,p2p://147.135.39.171:9906/5f33ec18000de7fc8a19af945eb25962.ts
 
 
-翡翠台,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=15
+翡翠台,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=15
 翡翠台,http://hls.globaliptv.ml/tvbjade.php
 翡翠台,mitv://ns2.hellotvvod.com:9906/5fc89e5b000cabb25141373457d4100b&kss=333
 翡翠台,mitv://ns2.hellotvvod.com:9906/5fb657840002254d09dc7c9d47ca13e1&kss=333
@@ -1182,7 +1182,7 @@ BBC World News,https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist
 
 无线新闻,https://www.nettvplus.live/hls/tvb.php?id=1
 无线新闻,http://ohyeah.gear.host/hktvb.php?id=1
-无线新闻,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=13
+无线新闻,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=13
 无线新闻,http://93.190.139.36:8278/streams/d/inews_twn/playlist.m3u8
 无线新闻,P2p://198.255.74.56:41196/602fed74000e4d8079f8454bb3576dfc
 无线新闻,P2p://198.255.74.56:41196/602fedf400096ec079fa380cc1a8fdbe
@@ -1194,7 +1194,7 @@ BBC World News,https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist
 
 
 无线财经,http://ohyeah.gear.host/hktvb.php?id=2
-无线财经,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=14
+无线财经,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=14
 无线财经,https://www.nettvplus.live/hls/tvb.php?id=2
 无线财经,http://93.190.139.36:8278/streams/d/tvbcaijing_twn/playlist.m3u8
 无线财经,http://93.190.139.36:8278/streams/d/j5_twn/playlist.m3u8
@@ -1229,7 +1229,7 @@ TVB直播,http://ohyeah.gear.host/hktvb.php?id=3
 
 有线电影,P2p://198.255.74.56:41196/602fedee000ee97679fa22035bf8704f
 有线电影,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
-有线电影,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=9
+有线电影,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=9
 有线电影,P2p://198.255.74.56:41196/602fed7400084a5e79f843c185978a32
 
 天映电影,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
@@ -1237,14 +1237,14 @@ TVB直播,http://ohyeah.gear.host/hktvb.php?id=3
 
 
 Viu   TV,mitv://147.135.39.171:9906/5d9a2e7b000d28609cc0d68b68a05dd1.ts
-Viu   TV,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=20
+Viu   TV,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=20
 ViuTV 6,mitv://147.135.39.171:9906/5d9a2e7c0000af799cc0d74673341867.ts
 
 
 Now新闻,http://hls.globaliptv.ml/now332.php
 Now新闻,http://teslagram.com/live/channel_332.m3u8
 
-Now新闻,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=21
+Now新闻,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=21
 
 Now直播,http://hls.globaliptv.ml/now331.php
 Now直播,http://teslagram.com/live/channel_331.m3u8
@@ -1349,25 +1349,25 @@ Now Sports,http://teslagram.com/live/channel_630.m3u8
 台湾,#genre#
 
 
-台视,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=42
-台视新闻,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=31
-中视,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=43
-中视新闻,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=32
-中天新闻,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=26
-东森新闻,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=27
-东森财经新闻,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=28
-东森超市,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=50
-三立LIVE新闻,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=35
-三立台湾,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=49
-TVBS新闻,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=34
-TVBS欢乐,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=47
-民视,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=41
-民视新闻,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=37
-纬来体育,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=52
-纬来育乐,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=54
-纬来日本,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=53
-华视,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=44
-华视新闻,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=33
+台视,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=42
+台视新闻,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=31
+中视,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=43
+中视新闻,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=32
+中天新闻,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=26
+东森新闻,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=27
+东森财经新闻,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=28
+东森超市,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=50
+三立LIVE新闻,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=35
+三立台湾,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=49
+TVBS新闻,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=34
+TVBS欢乐,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=47
+民视,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=41
+民视新闻,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=37
+纬来体育,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=52
+纬来育乐,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=54
+纬来日本,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=53
+华视,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=44
+华视新闻,http://qj.yyrjdp.cn/jiuban/iptv55226.php?id=33
 
 民视新闻,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 壹电视新闻,http://stream.nexttv.com.tw/n001/hd/live.m3u8
