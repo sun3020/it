@@ -1032,11 +1032,11 @@ CNC 新华中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 
 
 
-有线新闻,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=6
+有线新闻,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=6
 
 无线新闻,https://www.nettvplus.live/hls/tvb.php?id=1
 无线新闻,http://ohyeah.gear.host/hktvb.php?id=1
-无线新闻,http://qj.yyrjdp.cn/jiuban/iptv88999.php?id=13
+无线新闻,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=13
 无线新闻,P2p://198.255.74.56:41196/602fed74000e4d8079f8454bb3576dfc
 无线新闻,P2p://198.255.74.56:41196/602fedf400096ec079fa380cc1a8fdbe
 
