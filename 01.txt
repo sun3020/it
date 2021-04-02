@@ -1032,11 +1032,11 @@ CNC 新华中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 
 
 有线新闻,http://v3948069e.live.126.net/live/yxxw123456789.flv
-有线新闻,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=6
+有线新闻,http://qj.yyrjdp.cn/jiuban/iptv2333.php?id=6
 
 无线新闻,https://www.nettvplus.live/hls/tvb.php?id=1
 无线新闻,http://ohyeah.gear.host/hktvb.php?id=1
-无线新闻,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=13
+无线新闻,http://qj.yyrjdp.cn/jiuban/iptv23336.php?id=13
 无线新闻,P2p://198.255.74.56:41196/602fed74000e4d8079f8454bb3576dfc
 无线新闻,P2p://198.255.74.56:41196/602fedf400096ec079fa380cc1a8fdbe
 
@@ -1083,7 +1083,7 @@ BBC World News,https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist
 港澳,#genre#
 
 有线新闻,http://v3948069e.live.126.net/live/yxxw123456789.flv
-有线新闻,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=6
+有线新闻,http://qj.yyrjdp.cn/jiuban/iptv2333.php?id=6
 有线新闻,http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
 有线新闻,P2p://198.255.74.56:41196/602fedef0000059b79fa221c723e419c
 有线新闻,P2p://198.255.74.56:41196/602fedfb0003598079fa51d6150c3471
@@ -1091,7 +1091,7 @@ BBC World News,https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist
 有线新闻,p2p://147.135.39.171:9906/5f33ec18000de7fc8a19af945eb25962.ts
 
 
-☆翡翠台,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=15
+☆翡翠台,http://qj.yyrjdp.cn/jiuban/iptv2333.php?id=15
 翡翠台,http://hls.globaliptv.ml/tvbjade.php
 翡翠台,mitv://ns2.hellotvvod.com:9906/5fc89e5b000cabb25141373457d4100b&kss=333
 翡翠台,mitv://ns2.hellotvvod.com:9906/5fb657840002254d09dc7c9d47ca13e1&kss=333
@@ -1100,7 +1100,7 @@ BBC World News,https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist
 翡翠台,P2p://198.255.74.56:41196/602fed74000f2b2379f84584f82e0abd
 翡翠(马来),mitv://ns2.hellotvvod.com:9906/5fc89f29000b44b051445b872ad9583d&kss=333
 翡翠(马来),mitv://ns2.hellotvvod.com:9906/5fc89f29000b44b051445b872ad9583d&kss=333
-☆无线新闻,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=13
+☆无线新闻,http://qj.yyrjdp.cn/jiuban/iptv2333.php?id=13
 无线新闻,https://www.nettvplus.live/hls/tvb.php?id=1
 无线新闻,http://ohyeah.gear.host/hktvb.php?id=1
 
@@ -1113,7 +1113,7 @@ BBC World News,https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist
 无线新闻,http://livetv.dnsfor.me/channel.10.m3u8
 
 
-☆无线财经,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=14
+☆无线财经,http://qj.yyrjdp.cn/jiuban/iptv2333.php?id=14
 无线财经,http://ohyeah.gear.host/hktvb.php?id=2
 
 无线财经,https://www.nettvplus.live/hls/tvb.php?id=2
@@ -1149,7 +1149,7 @@ TVB直播,http://ohyeah.gear.host/hktvb.php?id=3
 
 有线电影,P2p://198.255.74.56:41196/602fedee000ee97679fa22035bf8704f
 有线电影,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
-有线电影,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=9
+有线电影,http://qj.yyrjdp.cn/jiuban/iptv2333.php?id=9
 有线电影,P2p://198.255.74.56:41196/602fed7400084a5e79f843c185978a32
 
 天映电影,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
@@ -1157,14 +1157,14 @@ TVB直播,http://ohyeah.gear.host/hktvb.php?id=3
 
 
 Viu   TV,mitv://147.135.39.171:9906/5d9a2e7b000d28609cc0d68b68a05dd1.ts
-Viu   TV,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=20
+Viu   TV,http://qj.yyrjdp.cn/jiuban/iptv2333.php?id=20
 ViuTV 6,mitv://147.135.39.171:9906/5d9a2e7c0000af799cc0d74673341867.ts
 
 
 Now新闻,http://hls.globaliptv.ml/now332.php
 Now新闻,http://teslagram.com/live/channel_332.m3u8
 
-☆Now新闻,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=21
+☆Now新闻,http://qj.yyrjdp.cn/jiuban/iptv2333.php?id=21
 
 Now直播,http://hls.globaliptv.ml/now331.php
 Now直播,http://teslagram.com/live/channel_331.m3u8
@@ -1228,7 +1228,7 @@ V 中文,rtmp://[2001:da8:ff3a:c883:200::]/livetv/channelv
 
 有线18台,rtmp://59.124.75.156/sat/hk041
 
-☆有线603,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=8
+☆有线603,http://qj.yyrjdp.cn/jiuban/iptv2333.php?id=8
 
 有线体育,mitv://147.135.39.171:9906/5ea539e900076757daff48514c4e1e96.ts
 有线体育,P2p://147.135.39.171:9906/5ea539e900076757daff48514c4e1e96.ts
@@ -1284,27 +1284,27 @@ TVBS   HD,mitv://147.135.39.171:9906/5f2c407d000f150b6c2346e221a0451b&link=123
 民视影剧,http://seb.sason.top/ptv/ftv.php?id=yj
 民视综艺,http://seb.sason.top/ptv/ftv.php?id=zy
 
-☆TVBS新闻,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=34
-☆TVBS欢乐,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=47
-☆民视,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=41
-☆民视新闻,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=37
-☆台视,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=42
-☆台视新闻,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=31
-☆中视,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=43
-☆中视新闻,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=32
+☆TVBS新闻,http://qj.yyrjdp.cn/jiuban/iptv2333.php?id=34
+☆TVBS欢乐,http://qj.yyrjdp.cn/jiuban/iptv2333.php?id=47
+☆民视,http://qj.yyrjdp.cn/jiuban/iptv2333.php?id=41
+☆民视新闻,http://qj.yyrjdp.cn/jiuban/iptv2333.php?id=37
+☆台视,http://qj.yyrjdp.cn/jiuban/iptv2333.php?id=42
+☆台视新闻,http://qj.yyrjdp.cn/jiuban/iptv2333.php?id=31
+☆中视,http://qj.yyrjdp.cn/jiuban/iptv2333.php?id=43
+☆中视新闻,http://qj.yyrjdp.cn/jiuban/iptv2333.php?id=32
 ☆华视,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=44
-☆华视新闻,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=33
-☆中天新闻,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=26
-☆东森新闻,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=27
-☆东森财经新闻,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=28
-☆东森超视,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=50
-☆TVBS新闻,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=34
-☆TVBS欢乐,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=47
-☆三立LIVE新闻,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=35
-☆三立台湾,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=49
-☆纬来体育,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=52
-☆纬来育乐,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=54
-☆纬来日本,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=53
+☆华视新闻,http://qj.yyrjdp.cn/jiuban/iptv2333.php?id=33
+☆中天新闻,http://qj.yyrjdp.cn/jiuban/iptv2333.php?id=26
+☆东森新闻,http://qj.yyrjdp.cn/jiuban/iptv2333.php?id=27
+☆东森财经新闻,http://qj.yyrjdp.cn/jiuban/iptv2333.php?id=28
+☆东森超视,http://qj.yyrjdp.cn/jiuban/iptv2333.php?id=50
+☆TVBS新闻,http://qj.yyrjdp.cn/jiuban/iptv2333.php?id=34
+☆TVBS欢乐,http://qj.yyrjdp.cn/jiuban/iptv2333.php?id=47
+☆三立LIVE新闻,http://qj.yyrjdp.cn/jiuban/iptv2333.php?id=35
+☆三立台湾,http://qj.yyrjdp.cn/jiuban/iptv2333.php?id=49
+☆纬来体育,http://qj.yyrjdp.cn/jiuban/iptv2333.php?id=52
+☆纬来育乐,http://qj.yyrjdp.cn/jiuban/iptv2333.php?id=54
+☆纬来日本,http://qj.yyrjdp.cn/jiuban/iptv2333.php?id=53
 
 民视新闻,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 壹电视新闻,http://stream.nexttv.com.tw/n001/hd/live.m3u8
@@ -1588,7 +1588,7 @@ Sir说电影,http://kuqq.tk/00/huya.php?id=sirdy
 斗鱼⑦欧美,http://666.stop.kim/douyu.php?id=248753 
 有线电影,P2p://198.255.74.56:41196/602fedee000ee97679fa22035bf8704f
 有线电影,http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
-有线电影,http://qj.yyrjdp.cn/jiuban/iptv88666.php?id=9
+有线电影,http://qj.yyrjdp.cn/jiuban/iptv2333.php?id=9
 有线电影,P2p://198.255.74.56:41196/602fed7400084a5e79f843c185978a32
 
 KiD电影①,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
