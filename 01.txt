@@ -1046,11 +1046,11 @@ CNC 新华中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 新闻,#genre#
 
 有线新闻,http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
-有线新闻,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=5
+有线新闻,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=5
 
 无线新闻,https://www.nettvplus.live/hls/tvb.php?id=1
 无线新闻,http://ohyeah.gear.host/hktvb.php?id=1
-无线新闻,http://qj.yyrjdp.cn/jiuban/iptv5333.php?id=13
+无线新闻,http://qj.yyrjdp.cn/jiuban/iptv9444.php?id=13
 无线新闻,P2p://198.255.74.56:41196/602fed74000e4d8079f8454bb3576dfc
 无线新闻,P2p://198.255.74.56:41196/602fedf400096ec079fa380cc1a8fdbe
 
@@ -1099,7 +1099,7 @@ BBC World News,https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist
 
 
 有线新闻,http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
-有线新闻,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=5
+有线新闻,http://qj.yyrjdp.cn/jiuban/daili/iptv9444php?id=5
 
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 翡翠台,http://93.190.139.36:8278/streams/d/jade_twn/playlist.m3u8
@@ -1155,7 +1155,7 @@ TVB直播,http://ohyeah.gear.host/hktvb.php?id=3
 
 
 
-有线电影,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=9
+有线电影,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=9
 
 天映电影,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
@@ -1604,7 +1604,7 @@ Sir说电影,http://kuqq.tk/00/huya.php?id=sirdy
 斗鱼⑥欧美,http://666.stop.kim/douyu.php?id=36337
 斗鱼⑦欧美,http://666.stop.kim/douyu.php?id=248753 
 
-有线电影,http://qj.yyrjdp.cn/jiuban/daili/iptv5333.php?id=9
+有线电影,http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=9
 
 
 
